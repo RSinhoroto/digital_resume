@@ -26,7 +26,7 @@ function App() {
           </div>
           <div id='description-box'>
             <h1>Hello, I'm Rafa!</h1>
-            <p>Wannabe dancer with a love for science and technology and some programming knowledge on the side</p>
+            <p>Bachelor in Control and Automation Engineering (Universidade de Brasília) with knowledge in multiple areas of technology and international experience.</p>
             <a href="https://github.com/RSinhoroto" target={'_blank'} rel="noreferrer">
               <button>My GitHub page</button>
             </a>

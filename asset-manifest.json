@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digital_resume/static/css/main.b2ddc65f.css",
+    "main.js": "/digital_resume/static/js/main.4e12e55a.js",
+    "static/media/Picture.png": "/digital_resume/static/media/Picture.3db4b6d9003afe4823c4.png",
+    "static/media/instagram.svg": "/digital_resume/static/media/instagram.a913357b016f5673c78c9121ab66bae4.svg",
+    "static/media/Dots.svg": "/digital_resume/static/media/Dots.16e8dda139e53e7f2c8c845ec0b92c51.svg",
+    "static/media/github.svg": "/digital_resume/static/media/github.387504619c93a1c28f035db26b4ef1c8.svg",
+    "static/media/Chess.svg": "/digital_resume/static/media/Chess.13626e470301b6d753fee91341378224.svg",
+    "static/media/behance.svg": "/digital_resume/static/media/behance.ad31c1576b22354c9f38379bd267895d.svg",
+    "index.html": "/digital_resume/index.html",
+    "static/media/arrow down.svg": "/digital_resume/static/media/arrow down.c27b4a6a030f6f7cdeedccbe819988b2.svg",
+    "static/media/Vector vertical.svg": "/digital_resume/static/media/Vector vertical.a2c5637b8780a82f3740a6fd8e70c4ec.svg",
+    "static/media/Vector horizontal.svg": "/digital_resume/static/media/Vector horizontal.368e18cd8fe65ed9c5712efd26c704c8.svg",
+    "static/media/Frame.svg": "/digital_resume/static/media/Frame.6a29a07aebcc4822005376203181f247.svg",
+    "main.b2ddc65f.css.map": "/digital_resume/static/css/main.b2ddc65f.css.map",
+    "main.4e12e55a.js.map": "/digital_resume/static/js/main.4e12e55a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ddc65f.css",
+    "static/js/main.4e12e55a.js"
+  ]
+}

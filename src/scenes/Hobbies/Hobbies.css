@@ -1,0 +1,21 @@
+#hobbies-page {
+  background-color: var(--color-background);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#hobbies-container {
+  color: var(--color-text);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#hobbies-container p {
+  margin-bottom: 5rem;
+}

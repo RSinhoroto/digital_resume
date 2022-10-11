@@ -1,0 +1,137 @@
+#about-page {
+  background-color: var(--color-background);
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#about-container {
+  display: flex;
+  flex: 1;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#about-text {
+  max-width: 90vw;
+  text-align: center;
+
+  color: var(--color-text);
+}
+
+#about-text h6 {
+  background: linear-gradient(to right, #5A67F0 0%, #5AB8F0 50%, #5AEAF0 100%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  margin-bottom: 1rem;
+}
+
+#about-text h1 {
+  color: var(--color-title);
+  margin-bottom: 2rem;
+}
+
+#about-text p {
+  margin-bottom: 7rem;
+}
+
+#about-image {
+  width: 9rem;
+  height: 12rem;
+
+  position: relative;
+}
+
+#frame-div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+#frame-div img {
+  width: 85%;
+}
+
+#dots-div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+#dots-div img {
+  width: 40%;
+}
+
+#chess-div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#chess-div img {
+  width: 85%;
+  height: 85%;
+  object-fit: cover;
+}
+
+#profile-picture {
+  position: absolute;
+  z-index: 4;
+
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#profile-picture img {
+  height: 80%;
+  width: 80%;
+  object-fit: cover;
+}
+
+@media (orientation: landscape) {
+
+  #about-container {
+    display: flex;
+    flex: 1;
+
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  #about-text {
+    max-width: 45vw;
+    text-align: left;
+  }
+
+  #about-image {
+    width: 18rem;
+    height: 24rem;
+  }
+
+}
